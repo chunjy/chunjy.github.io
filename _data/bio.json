@@ -72,13 +72,14 @@
       ]
     }
   ],
-  "Professional Experience": [
+  "work": [
     {
       "company": "First Hawaiian Bank",
-      "position": "Intern",
+      "position": "intern",
       "website": "",
       "startDate": "2017-10-01",
       "endDate": "2017-12-01",
+      "summary": "",
       "highlights": [
         "Analyzed the data of consumers' behavior on e-commerce and developed an effective marketing advertisement",
         "Networked with professionas from a selective range of banking divisions to learn about their impact on the community"
@@ -86,9 +87,10 @@
     },
     {
       "company": "Alexander & Baldwin",
-      "position": "Intern",
+      "position": "intern",
       "startDate": "2017-08-01",
       "endDate": "2017-10-01",
+      "summary": "",
       "highlights": [
         "Learned how various departments contribute to the total success of the company",
         "Achieved advanced knowledge of Microsoft Office while improving soft skills through actively engaging with workers"
@@ -98,16 +100,22 @@
   "volunteer": [
     {
       "organization": "Global Tourism Summit",
+      "website": "",
       "position": "Participant",
-      "Date": "2018-10-02",
+      "startDate": "",
+      "endDate": "2018-10-02",
+      "summary": "",
       "highlights": [
         "Attended the event to learn the significance of global marketing and technology and to foresee future challenges and opportunities in tourism"
       ]
     },
     {
       "organization": "Carbon Neutrality Challenge",
+      "website": "",
       "position": "Volunteer",
-      "Date": "2019-12-07",
+      "startDate": "",
+      "endDate": "2019-12-07",
+      "summary": "",
       "highlights": [
         "Planted a few thousand trees with nearly 2,000 participants to fight against climate change"
       ]
