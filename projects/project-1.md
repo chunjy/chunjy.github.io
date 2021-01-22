@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ATM.tiff
+image: images/ATM.jpg
 title: ATM = Another Training Module
 permalink: projects/bankoperation
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: I have worked on a project of demonstrating simple transactions of bank operations in the class of ICS 212 – Program Structure.
 ---
 
-  <img class="ui medium right floated rounded image" src="../images/ATM.tiff">
+  <img class="ui medium right floated rounded image" src="../images/ATM.jpg">
   
 From inserting a card into an ATM to completing a transaction, a countless algorithms work together in the background. I have worked on a project of demonstrating simple transactions of bank operations in the class of ICS 212 – Program Structure. The main goal was to create an user-friendly interface and to collect and organize the users’ data in a singly linked list.
 
