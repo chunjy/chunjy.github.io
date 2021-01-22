@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/LEO.png
-title: Cotton
+image: images/language.jpg
+title: Learning A New Language Opens Up Opportunities
 permalink: projects/international
 # All dates must be YYYY-MM-DD format!
 date: 2012-04-19
