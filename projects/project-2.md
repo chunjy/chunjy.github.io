@@ -16,7 +16,7 @@ summary: The Girls Got Grit (GGG) Program is a year-long two-part mentorship pro
 
 <img class="ui image" src="{{ site.baseurl }}/images/GGG.jpg">
 
-The Girls Got Grit (GGG) Program is a year-long two-part mentorship program for students in grades 10 to 12 to prepare them to become future leaders in Hawaii’s workforce. The first part of the program connects students with women business leaders in the community. With the guidance of these women leaders, students create a business presentation to pitch to corporate companies. The second part of the program gives students the opportunity to intern at professionals’ companies and see “on-the-job requirements” for fields they want to enter.
+The Girls Got Grit (GGG) Program is a year-long, two-part mentorship program for students in grades 10 to 12 to prepare them to become future leaders in Hawaii’s workforce. The first part of the program connects students with women business leaders in the community. With the guidance of these women leaders, students create a business presentation to pitch to corporate companies. The second part of the program gives students the opportunity to intern at professionals’ companies and see “on-the-job requirements” for fields they want to enter.
 
 During the first part of the program, my group wrote a business proposal and prepared an elevator pitch, which we presented at companies and organizations to raise money for our program. Moving onto the second phase, I gained the opportunity to intern at Alexander Baldwin and First Hawaiian Bank in the year of 2017. I participated in meetings from different departments including marketing, IT, online banking, and many more.
 
