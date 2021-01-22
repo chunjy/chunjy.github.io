@@ -21,3 +21,9 @@ The Girls Got Grit (GGG) Program is a year-long, two-part mentorship program for
 During the first part of the program, my group wrote a business proposal and prepared an elevator pitch, which we presented at companies and organizations to raise money for our program. Moving onto the second phase, I gained the opportunity to intern at Alexander Baldwin and First Hawaiian Bank in the year of 2017. I participated in meetings from different departments including marketing, IT, online banking, and many more.
 
 The GGG program provided young women with job mentoring, skill-building, leadership development, and networking opportunities they would not otherwise get sitting in a classroom. Students emerged as leaders, with more self-confidence and professionalism. The program also taught students skill sets such as organization in daily work streams, managing people, interviewing and networking, written and oral communications, and professional etiquette.
+
+
+
+
+
+
