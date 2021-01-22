@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/GGG.jpg
+title: Girls Got Grit!
+permalink: projects/GGG
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-05-31
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Job mentoring
+  - Networking
+  - Skill-building
+  - Leadership
+summary: The Girls Got Grit (GGG) Program is a year-long two-part mentorship program for students in grades 10 to 12 to prepare them to become future leaders in Hawaii’s workforce.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../GGG.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Girls Got Grit (GGG) Program is a year-long two-part mentorship program for students in grades 10 to 12 to prepare them to become future leaders in Hawaii’s workforce. The first part of the program connects students with women business leaders in the community. With the guidance of these women leaders, students create a business presentation to pitch to corporate companies. The second part of the program gives students the opportunity to intern at professionals’ companies and see “on-the-job requirements” for fields they want to enter.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+During the first part of the program, my group wrote a business proposal and prepared an elevator pitch, which we presented at companies and organizations to raise money for our program. Moving onto the second phase, I gained the opportunity to intern at Alexander Baldwin and First Hawaiian Bank in the year of 2017. I participated in meetings from different departments including marketing, IT, online banking, and many more.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The GGG program provided young women with job mentoring, skill-building, leadership development, and networking opportunities they would not otherwise get sitting in a classroom. Students emerged as leaders, with more self-confidence and professionalism. The program also taught students skill sets such as organization in daily work streams, managing people, interviewing and networking, written and oral communications, and professional etiquette.
