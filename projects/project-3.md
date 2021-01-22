@@ -1,61 +1,22 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/LEO.png
 title: Cotton
-permalink: projects/cotton
+permalink: projects/international
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2012-04-19
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - international student
+  - language learning
+summary: It is very challenging to live as an F-1 international student to overcome a language barrier, to work for an organization, and to have a stable life in America.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/LEO.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+It is very challenging to live as an F-1 international student to overcome a language barrier, to work for an organization, and to have a stable life in America. However, from learning basic English to graduating high school with great accomplishments, I have successfully adapted to different circumstances since when I arrived in Honolulu in 2012. I have had an opportunity to intern as well during high school and eventually succeeded with the significant merit scholarship for foreign students at the University of Hawaii at Manoa.
 
-To give you a flavor of the game, here is an excerpt from one run:
+In the summer of 2012, I came over from South Korea to Hawaii. My English skills were very limited, but I never declined to give up and maintained positivity. I also planned thoroughly throughout my student life and pushed myself to take advanced courses and to participate in diverse school activities. Learning a new language has opened up a lot of new opportunities for me such as internships, scholarships, and job opportunities.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+By leading the Marching Band and Leo Club with a diverse group of students, I have smoothly combined the mix of individuals and extended myself to understand more about their cultures. I also learned to be open-minded as I’ve been constantly challenged by various standpoints. Despite the difficulty of earning an opportunity to work in the U.S., I plan to learn more deeply about Computer Science in Honolulu both by studying core subjects as well as procuring networking opportunities via campus experiences to hone my soft skills before I compete with others.
 
