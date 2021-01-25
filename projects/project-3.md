@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/language.jpg
+image: images/multicultural.jpg
 title: Learning A New Language Opens Up Opportunities
 permalink: projects/international
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ labels:
   - language learning
 summary: It is very challenging to live as an F-1 international student to overcome a language barrier, to work for an organization, and to have a stable life in America.
 ---
-<img class="ui image" src="{{ site.baseurl }}/images/LEO.png">
+<img class="ui image" src="{{ site.baseurl }}/images/marching.jpg">
 
 It is very challenging to live as an F-1 international student to overcome a language barrier, to work for an organization, and to have a stable life in America. However, from learning basic English to graduating high school with great accomplishments, I have successfully adapted to different circumstances since when I arrived in Honolulu in 2012. I have had an opportunity to intern as well during high school and eventually succeeded with the significant merit scholarship for foreign students at the University of Hawaii at Manoa.
 
