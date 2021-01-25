@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/GGG.jpg
+image: images/business.jpg
 title: Girls Got Grit!
 permalink: projects/GGG
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: The Girls Got Grit (GGG) Program is a year-long two-part mentorship program for students in grades 10 to 12 to prepare them to become future leaders in Hawaii’s workforce.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/GGG.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/GGG.jpeg">
 
 The Girls Got Grit (GGG) Program is a year-long, two-part mentorship program for students in grades 10 to 12 to prepare them to become future leaders in Hawaii’s workforce. The first part of the program connects students with women business leaders in the community. With the guidance of these women leaders, students create a business presentation to pitch to corporate companies. The second part of the program gives students the opportunity to intern at professionals’ companies and see “on-the-job requirements” for fields they want to enter.
 
