@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/multicultural.jpg
 title: Learning A New Language Opens Up Opportunities
-permalink: projects/international
+permalink: projects/learning-a-new-language-opens-up-opportunities
 # All dates must be YYYY-MM-DD format!
 date: 2012-04-19
 labels:
