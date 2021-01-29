@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/atm.jpg
 title: ATM = Another Training Module
-permalink: projects/bankoperation
+permalink: projects/another-training-module
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-30
 labels:
