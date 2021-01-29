@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/business.jpg
 title: Girls Got Grit!
-permalink: projects/GGG
+permalink: projects/girls-got-grit
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-31
 labels:
