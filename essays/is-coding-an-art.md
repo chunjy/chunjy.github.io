@@ -10,7 +10,7 @@ labels:
   - IntelliJ
 ---
 
-<img class="ui medium right floated rounded image" src="../images/renaissance.jpg">
+<img class="ui medium left floated rounded image" src="../images/renaissance.jpg">
 
 ## Renaissance Values
 I recall learning about different styles of painting, sculpture, and decorative arts of the period of European history known as the Renaissance in high school. Many renowned artists and creative individuals emerged and are still mentioned in the field of art many times. This era has been particularly highlighted and referred to because many of the paintings and pieces we know are for this period. When I think about the standard of coding, it often reminds me of the values between personality and objectivity, and the comparisons between Renaissance and coding. Although being iconic and unique are denoted and respected and valued, in the world of coding I am convinced that there should be coding standards.
