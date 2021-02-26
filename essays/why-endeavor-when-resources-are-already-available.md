@@ -9,7 +9,7 @@ labels:
   - IntelliJ
 ---
 
-<img class="ui medium left floated rounded image" src="../images/renaissance.jpg">
+<img class="ui medium left floated rounded image" src="../images/semantic.png">
 
 ## We all have experienced with creating a webpage
 In today’s technology-heavy world, most people have experienced creating at least one webpage whether that is choosing a background image of the Facebook page, a profile picture for the Instagram account, or typing in a list of achievements in a LinkedIn portfolio. By using these pre-implemented platforms, it is very easy for us to pick and choose how we want to decorate our website uniquely. However, if we have to create and design our webpage from a piece of blank, scratch paper, that is a different story.
