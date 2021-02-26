@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Why Endeavor When Resources Are Already Available?
 # All dates must be YYYY-MM-DD format!
-date: 2021-02-11
+date: 2021-02-25
 labels:
   - Semantic UI
   - IntelliJ
