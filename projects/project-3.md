@@ -17,7 +17,7 @@ It is very challenging to live as an F-1 international student to overcome a lan
 
 In the summer of 2012, I came over from South Korea to Hawaii. My English skills were very limited, but I never decided to give up and maintained positivity. I also planned thoroughly throughout my student life and pushed myself to take advanced courses and to participate in diverse school activities. Learning a new language has opened up a lot of new opportunities for me such as internships, scholarships, and job opportunities.
 
-By leading the Marching Band and Leo Club with a diverse group of students, I have smoothly combined the mix of individuals and extended myself to understand more about their cultures. I also learned to be open-minded as I’ve been constantly challenged by various standpoints. Despite the difficulty of earning an opportunity to work in the U.S., I plan to learn more deeply about Computer Science in Honolulu both by studying core subjects as well as procuring networking opportunities via campus experiences to hone my soft skills before I compete with others.
+By leading the Marching Band and Leo Club with a diverse group of students, I have smoothly combined the mix of individuals and extended myself to understand more about their cultures. I also learned to be open-minded as I’ve been constantly challenged by various standpoints. Despite the difficulty of earning an opportunity to work in the U.S., I plan to learn more deeply about Computer Science in Honolulu both by studying core subjects as well as procuring networking opportunities via campus experiences to hone my soft skills before I compete with others. 
 
 
 
