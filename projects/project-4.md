@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/landing1.png
 title: UHXchange
 permalink: projects/uhxchange
 # All dates must be YYYY-MM-DD format!
