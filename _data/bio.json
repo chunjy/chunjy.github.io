@@ -68,7 +68,9 @@
         "ICS 111: Intro to Computer Science I",
         "ICS 211: Intro to Computer Science II",
         "ICS 212: Program Structure",
-        "ICS 311: Algorithms"
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+        "ICS 461: Artificial Intelligence",
       ]
     }
   ],
