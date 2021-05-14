@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: images/multicultural.jpg
-title: Learning A New Language Opens Up Opportunities
-permalink: projects/learning-a-new-language-opens-up-opportunities
+image: 
+title: UHXchange
+permalink: projects/uhxchange
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-14
 labels:
-  - international student
-  - language learning
+  - JavaScript
+  - Semantic UI React
+  - Issue Driven Project Management
 summary: It is very challenging to live as an F-1 international student to overcome a language barrier, to work for an organization, and to have a stable life in America.
 ---
 <img class="ui image" src="{{ site.baseurl }}/images/marching.jpg">
