@@ -12,8 +12,8 @@ labels:
   - Issue Driven Project Management
 summary: UHXchange is designed to facilitate buying and selling of items where students can create a listing or contact sellers to purchase items at an affordable price.
 ---
-<img class="ui medium left floated image" src="../images/landing1.png">
-<img class="ui medium right floated image" src="../images/landing2.png">
+<img class="ui medium image" src="../images/landing1.png">
+<img class="ui medium image" src="../images/landing2.png">
 
 The University of Hawaii at Manoa is a diverse university as many students come from outside of the island to further their education. According to the [University of Hawaii at Manoa website](https://manoa.hawaii.edu/about/), twenty-nine percent of the student population is from out-of-state, and seven percent is from international. Therefore, many students move in and out of the dorm and need a marketplace where they can sell or buy dorm-related goods. To address the students’ needs, [UHXchange](https://uhxchange.github.io/) is designed to facilitate buying and selling of items where students can create a listing or contact sellers to purchase items at an affordable price. Students can also sell other campus-related items such as used textbooks, which engages the community to recycle and reuse items effectively.
 
