@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - Semantic UI React
   - Issue Driven Project Management
-summary: It is very challenging to live as an F-1 international student to overcome a language barrier, to work for an organization, and to have a stable life in America.
+summary: n/a
 ---
 <img class="ui image" src="{{ site.baseurl }}/images/marching.jpg">
 
