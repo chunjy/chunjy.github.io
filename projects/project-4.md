@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/uhxchange.png
-title: UHXchange
-permalink: projects/uhxchange
+title: Save Money With UHXchange
+permalink: projects/save-money-with-uhxchange
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-14
 labels:
